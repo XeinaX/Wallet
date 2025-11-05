@@ -1,0 +1,12 @@
+.vs/
+.idea/
+*.suo
+*.user
+
+[Bb]in/
+[Oo]bj/
+
+appsettings.Development.json
+
+*.DS_Store
+Thumbs.db
